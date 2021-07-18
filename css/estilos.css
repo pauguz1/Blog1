@@ -4,7 +4,7 @@ body{
 	color: blue;
 }
 
-.container{
+.container,.cabecera{
 	text-align: center;
 	color: white;
 	margin: 0 auto;
@@ -15,6 +15,11 @@ body{
 	align-items: center;
 	flex-wrap: wrap;
 	background-color: rgb(40, 117, 184);
+}
+.cabecera{
+	background-color: rgb(41, 146, 115);
+	height: 40px;
+	font-size:25px;
 }
 .container h1,p{
 	width: 100%;
