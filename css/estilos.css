@@ -14,4 +14,9 @@ body{
 	border-radius:1.5rem;
 	font-size: 25px;
 	background-color: teal;
+	height: 50px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
 }
