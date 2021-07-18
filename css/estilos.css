@@ -4,15 +4,7 @@ body{
 	color: blue;
 }
 
-.cabecera{
-	text-align: center;
-	background-color: rgb(21, 85, 145);
-	color: white;
-	margin: 0 auto;
-	width: 50%;
-	border-radius:1.5rem;
-<<<<<<< HEAD
-}
+
 .container{
 	text-align: center;
 	background-color: rgb(21, 85, 145);
@@ -32,7 +24,6 @@ body{
 .alto{
 	height: 200px;
 	vertical-align: middle;
-=======
 	font-size: 25px;
 	background-color: teal;
 	height: 50px;
@@ -40,5 +31,4 @@ body{
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
->>>>>>> cabecera
 }
