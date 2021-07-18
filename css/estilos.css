@@ -24,7 +24,7 @@ body{
 	height: 200px;
 	vertical-align: middle;
 	font-size: 25px;
-	background-color: teal;
+	background-color: rgb(43, 128, 128);
 	height: 40px;
 	display: flex;
 	flex-wrap: wrap;
