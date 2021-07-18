@@ -5,11 +5,15 @@ body{
 }
 
 
-.container{
+.container,.cabecera{
 	text-align: center;
 	background-color: rgb(21, 85, 145);
 	color: white;
 	margin: 0 auto;
 	width: 50%;
 	border-radius:1.5rem;
+}
+.cabecera{
+	font-size: 25px;
+	background-color: teal;
 }
