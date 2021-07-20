@@ -46,3 +46,9 @@ body{
 	justify-content: center;
 
 }
+footer{
+	background-color: rgb(40, 117, 184);
+	border-radius: 1.5rem;
+	color: white;
+	font-size: 12px;
+}
