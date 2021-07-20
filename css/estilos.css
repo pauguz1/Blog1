@@ -6,6 +6,12 @@ body{
 .espacio{
 	height: 80px;
 }
+.mt{
+	margin-top: 5px;
+}
+.mb{
+	margin-bottom: 5px;
+}
 
 .container,.cabecera{
 	text-align: center;
