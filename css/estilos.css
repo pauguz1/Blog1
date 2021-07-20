@@ -3,6 +3,9 @@ body{
 	font-family: "Arial";
 	color: blue;
 }
+.espacio{
+	height: 80px;
+}
 
 .container,.cabecera{
 	text-align: center;
